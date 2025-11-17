@@ -1,0 +1,36 @@
+# Python Virtual Environment
+# This is the most important one for your project!
+.venv/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Operating System specific files
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
